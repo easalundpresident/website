@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+*.icloud
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Tooling and secrets
+node_modules/
+.wrangler/
+.dev.vars
+.env
+.env.*
+*.log
+
+# Local archives and scratch files
+*.zip
+*.bak
+tmp/
