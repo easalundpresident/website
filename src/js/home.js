@@ -41,11 +41,10 @@
     ['欢迎', 'Mandarin', 'zh-Hans'],
     ['ようこそ', 'Japanese', 'ja'],
     ['환영합니다', 'Korean', 'ko'],
-    ['Selamat datang', 'Indonesian and Malay', 'id'],
     ['Chào mừng', 'Vietnamese', 'vi'],
     ['ยินดีต้อนรับ', 'Thai', 'th'],
-    ['Maligayang pagdating', 'Filipino', 'fil'],
-    ['Тавтай морилно уу', 'Mongolian', 'mn'],
+    ['Mabuhay', 'Filipino', 'fil'],
+    ['Морилно yy', 'Mongolian', 'mn'],
   ];
 
   const word = $('#word');

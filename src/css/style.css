@@ -187,7 +187,7 @@ html { scroll-padding-top: 5rem; }
 .plist { margin: 1.25rem 0 1.5rem; border-top: 2px dashed var(--indigo); }
 .plist li { padding: 0.8rem 0; border-bottom: 1px dashed rgba(33, 42, 94, 0.4); font-weight: 600; }
 .diagram { margin: 1.5rem 0 2.5rem; padding: 1rem; overflow-x: auto; background: #fff; border-radius: var(--radius); }
-.diagram img { width: 100%; min-width: 38rem; background: none; }
+.diagram img { width: 100%; background: none; }
 .roles-bar { display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-bottom: 0.75rem; }
 .roles { border-top: 2px dashed var(--indigo); }
 .roles details { border-bottom: 1px dashed rgba(33, 42, 94, 0.4); }
