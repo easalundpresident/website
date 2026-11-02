@@ -126,7 +126,7 @@ a { color: inherit; }
 /* Small screens */
 @media (max-width: 62rem) {
   .menu-toggle { display: block; }
-  .nav { display: none; position: absolute; top: 100%; left: 0; right: 0; padding: 0.5rem 1.5rem 1.5rem; background: var(--sakura); }
+  .nav { display: none; position: absolute; top: calc(100% - 1px); left: 0; right: 0; margin: 0 !important; padding: 0 1.5rem 1.5rem !important; background: var(--sakura); }
   .nav.open { display: block; }
   .nav > ul { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
   .has-sub > ul { position: static; display: none; box-shadow: none; background: none; padding: 0 0 0 1rem; min-width: 0; }
